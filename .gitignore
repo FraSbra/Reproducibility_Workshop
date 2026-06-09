@@ -165,3 +165,6 @@ TEMPLATE_files/
 /.quarto/
 
 **/*.quarto_ipynb
+
+#Ignore specific dataset folder
+replication-package/excel/
